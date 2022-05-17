@@ -1,5 +1,4 @@
-FORMAT: 1A
-HOST: https://polls.apiblueprint.org/
+
 
 # Library REST API
 
